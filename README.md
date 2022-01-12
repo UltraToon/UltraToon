@@ -1,2 +1,4 @@
-Yo im ultratoon
-How to reach me: (coming because my email sucks)
+ Uses GNU/Linux.
+ +  Currently learning javascript and python. (Knows some HTML)
+ Learning Git.
+ Loves VIM.
