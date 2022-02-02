@@ -1,4 +1,4 @@
- Uses GNU/Linux.
+Will probably prefer MacOS or GNU/Linux over windows lol
 
  +  Currently learning javascript and python. (Knows some HTML)
 
