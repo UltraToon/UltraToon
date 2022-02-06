@@ -1,4 +1,4 @@
-Will probably prefer MacOS or GNU/Linux over windows lol
+>>> **Welcome** <<<
 
  +  Currently learning javascript and python. (Knows some HTML)
 
