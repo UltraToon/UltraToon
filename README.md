@@ -1,4 +1,4 @@
->>> **Welcome** <<<
+# Welcome.
 
  +  Currently learning javascript and python. (Knows some HTML)
 
