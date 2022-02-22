@@ -1,7 +1,10 @@
-# Welcome.
+# echo "Welcome."
+Welcome to my github profile! Here you will see projects that im working on.
 
- +  Currently learning javascript and python. (Knows some HTML)
+# print("Who am I?")
+My name is Ivan, and some of the coding languages I use are python, bash, and JS.
+I usually am pretty active on discord:
+UltraToon #3098
 
- Learning Git.
-
- Loves VIM.
+# document.write('Hobbies and Interests');
+I like using linux personally, and I play tennis as a sport.
