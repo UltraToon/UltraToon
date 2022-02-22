@@ -2,7 +2,7 @@
 Welcome to my github profile! Here you will see projects that im working on.
 
 # print("Who am I?")
-My name is Ivan, and some of the coding languages I use are python, bash, and JS.
+My name is Ivan, and some of the coding languages I use are python, bash, and JS.\n
 I usually am pretty active on discord:
 UltraToon #3098
 
